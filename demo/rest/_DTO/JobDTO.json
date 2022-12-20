@@ -1,0 +1,8 @@
+{
+  "title": "string",
+  "job": "string",
+  "type": "string",
+  "keywords": [ "string" ],
+  "location": "string",
+  "createdAt": "string"
+}
